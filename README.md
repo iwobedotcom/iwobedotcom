@@ -1,4 +1,4 @@
-![Header](assets/header.jpg)
+![Header](assets/header.png)
 
 # Hello, Earthlings! 🌍👋
 
