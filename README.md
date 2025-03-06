@@ -1,10 +1,10 @@
 ![Header](assets/header.jpg)
 
-# Hey there, I'm Iwobe👋
+# hey there, i'm iwobe👋
 
-Web developer based in Abuja, currently working with MBL.
+web developer based in abuja, currently working with MBL.
 
-## 💼 Toolkit
+## 💼 toolkit
 
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
@@ -73,7 +73,7 @@ Web developer based in Abuja, currently working with MBL.
 [![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?logo=w3schools&logoColor=fff)](#)
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff)](#)
 
-## 📈 Stats
+## 📈 stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iwobedotcom&theme=graywhite&show_icons=true&hide_border=true&count_private=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iwobedotcom&theme=graywhite&show_icons=true&hide_border=true&layout=compact)
